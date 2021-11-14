@@ -11,10 +11,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Fetch blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Blog Posts"
           commit_message: "Update readme with the latest blog posts"
           feed_list: "https://dev.to/feed/ivandotv,https://blog.logrocket.com/author/ivanvlatkovic/feed/"
           feed_names: "Dev.to,blog.logrocket.com"
+          max_post_count: 5

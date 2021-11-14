@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Fetch latest Stackoverflow activity
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour, on the hour
@@ -15,3 +15,4 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Update readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/1489487"
+          max_post_count: 5
