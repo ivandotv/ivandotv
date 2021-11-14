@@ -8,11 +8,11 @@ Ocassionaly I write articles on [dev.to](https://dev.to/ivandotv) and I'm also a
 
 Don't be shy, reach out , I'm always looking for interesting new oppuertunities.
 
-### Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+#### Latest blog posts
+<!-- Blog Posts:START -->
+<!-- Blog Posts:END -->
 
-### StackOverflow Activity
+#### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
