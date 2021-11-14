@@ -2,7 +2,7 @@
 
 My name is Ivan Vlatković. I am a full stack developer from Novi Sad, Serbia (GMT+1), and I have been creating content on the web since ~2009.
 
-My preferred web stack is Node.js for the backend and Next.js (React) for the front end, but I'm very interested in exploring Go for microservice development and Svelte.js for the frontend.
+My preferred web stack is Node.js for the backend and Next.js (React) for the frontend, but I'm very interested in exploring Go for microservice development and Svelte.js for the frontend.
 
 Occasionally I write articles on [dev.to](https://dev.to/ivandotv) and I'm also a guest author on the [Logrocket blog](https://blog.logrocket.com/author/ivanvlatkovic/).
 
@@ -12,7 +12,7 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 <!-- Blog Posts:START -->
 <!-- Blog Posts:END -->
 
-#### StackOverflow Activity
+#### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
