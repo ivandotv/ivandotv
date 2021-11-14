@@ -28,7 +28,7 @@ jobs:
           max_post_count: 5
 
       - name: Fetch latest stackoverflow activity
-      - uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Update readme with the latest stackOverflow data"
