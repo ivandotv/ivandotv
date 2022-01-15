@@ -11,6 +11,10 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 #### Latest blog posts
 <!-- Blog Posts:START -->
 - [The complete guide to internationalization in Next.js](https://blog.logrocket.com/complete-guide-internationalization-nextjs/)
+- [Full Page Transitions with Next.js](https://dev.to/ivandotv/full-page-transitions-with-next-js-1co5)
+- [Protecting static pages in Next.js application](https://dev.to/ivandotv/protecting-static-pages-in-next-js-application-1e50)
+- [Simplify your browser fetch&lpar;&rpar; calls](https://dev.to/ivandotv/simplify-your-browser-fetch-calls-15bp)
+- [Automate Publishing of Your Github Repository to  Docker Hub](https://dev.to/ivandotv/automate-publishing-of-your-github-repository-to-docker-hub-5872)
 <!-- Blog Posts:END -->
 
 #### StackOverflow activity
