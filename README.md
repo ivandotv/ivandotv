@@ -19,11 +19,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ivan V. for Are MobX actions allowed to show a confirm dialog, or navigate to a new screen? More generally, can actions touch ui?](https://stackoverflow.com/questions/71273649/are-mobx-actions-allowed-to-show-a-confirm-dialog-or-navigate-to-a-new-screen/71279973#71279973)
 - [Answer by Ivan V. for Next.js - Can we call custom hooks in GetStaticProps&lpar;&rpar;](https://stackoverflow.com/questions/71048699/next-js-can-we-call-custom-hooks-in-getstaticprops/71048767#71048767)
 - [Answer by Ivan V. for How to get dynamic page&#39;s id](https://stackoverflow.com/questions/70274539/how-to-get-dynamic-pages-id/70275784#70275784)
 - [Answer by Ivan V. for How to unprotect route in next js middleware](https://stackoverflow.com/questions/70169772/how-to-unprotect-route-in-next-js-middleware/70170021#70170021)
 - [Answer by Ivan V. for localstorage not defined in Next.js](https://stackoverflow.com/questions/70142120/localstorage-not-defined-in-next-js/70142580#70142580)
-- [Answer by Ivan V. for Is there any why to show loading screen while fetching API data using getStaticProps in next js?](https://stackoverflow.com/questions/69867588/is-there-any-why-to-show-loading-screen-while-fetching-api-data-using-getstaticp/69867691#69867691)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
