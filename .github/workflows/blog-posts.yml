@@ -26,6 +26,7 @@ jobs:
           feed_list: "https://dev.to/feed/ivandotv,https://blog.logrocket.com/author/ivanvlatkovic/feed/"
           feed_names: "Dev.to,blog.logrocket.com"
           max_post_count: 5
+          enable_keepalive: true
 
       - name: Fetch latest stackoverflow activity
         uses: gautamkrishnar/blog-post-workflow@master
@@ -34,3 +35,5 @@ jobs:
           commit_message: "Update readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/1489487"
           max_post_count: 5
+          enable_keepalive: true
+
