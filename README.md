@@ -19,11 +19,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ivan V. for Mobx observer component doesn&#39;t get update after observable change](https://stackoverflow.com/questions/71504321/mobx-observer-component-doesnt-get-update-after-observable-change/71514145#71514145)
 - [Answer by Ivan V. for How to type annotate MobX observable objects using non-OOP approach?](https://stackoverflow.com/questions/71278812/how-to-type-annotate-mobx-observable-objects-using-non-oop-approach/71408097#71408097)
 - [Answer by Ivan V. for NextJS router.query not giving the ID param](https://stackoverflow.com/questions/71360998/nextjs-router-query-not-giving-the-id-param/71361469#71361469)
 - [Answer by Ivan V. for How to type annotate MobX observable objects using non-OOP approach?](https://stackoverflow.com/questions/71278812/how-to-type-annotate-mobx-observable-objects-using-non-oop-approach/71287427#71287427)
 - [Answer by Ivan V. for Are MobX actions allowed to show a confirm dialog, or navigate to a new screen? More generally, can actions touch ui?](https://stackoverflow.com/questions/71273649/are-mobx-actions-allowed-to-show-a-confirm-dialog-or-navigate-to-a-new-screen/71279973#71279973)
-- [Answer by Ivan V. for Next.js - Can we call custom hooks in GetStaticProps&lpar;&rpar;](https://stackoverflow.com/questions/71048699/next-js-can-we-call-custom-hooks-in-getstaticprops/71048767#71048767)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
