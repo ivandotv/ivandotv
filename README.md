@@ -19,11 +19,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ivan V. for cannot get XSRF-TOKEN from cookie in nextjs &lpar;Reactjs&rpar;](https://stackoverflow.com/questions/71824204/cannot-get-xsrf-token-from-cookie-in-nextjs-reactjs/71824904#71824904)
 - [Answer by Ivan V. for Why am I getting this useLayoutEffect warning &lpar;not in a test&rpar;](https://stackoverflow.com/questions/71718731/why-am-i-getting-this-uselayouteffect-warning-not-in-a-test/71719889#71719889)
 - [Answer by Ivan V. for Forward type parameters to generic type when implementing generic function](https://stackoverflow.com/questions/71719496/forward-type-parameters-to-generic-type-when-implementing-generic-function/71719763#71719763)
 - [Dynamic chainable methods on child classes](https://stackoverflow.com/questions/71623931/dynamic-chainable-methods-on-child-classes)
 - [Answer by Ivan V. for When I use Express cookie-session, is it enough to delete the cookie client-side in order to logout?](https://stackoverflow.com/questions/71554700/when-i-use-express-cookie-session-is-it-enough-to-delete-the-cookie-client-side/71556068#71556068)
-- [Answer by Ivan V. for Mobx observer component doesn&#39;t get update after observable change](https://stackoverflow.com/questions/71504321/mobx-observer-component-doesnt-get-update-after-observable-change/71514145#71514145)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
