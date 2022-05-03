@@ -19,11 +19,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ivan V. for Interprete mobx console outputs](https://stackoverflow.com/questions/72041368/interprete-mobx-console-outputs/72103860#72103860)
 - [Answer by Ivan V. for NextJS: Axios or Fetch post and get method result wrong URL path api](https://stackoverflow.com/questions/71996961/nextjs-axios-or-fetch-post-and-get-method-result-wrong-url-path-api/71997094#71997094)
 - [Answer by Ivan V. for cannot get XSRF-TOKEN from cookie in nextjs &lpar;Reactjs&rpar;](https://stackoverflow.com/questions/71824204/cannot-get-xsrf-token-from-cookie-in-nextjs-reactjs/71824904#71824904)
 - [Answer by Ivan V. for Why am I getting this useLayoutEffect warning &lpar;not in a test&rpar;](https://stackoverflow.com/questions/71718731/why-am-i-getting-this-uselayouteffect-warning-not-in-a-test/71719889#71719889)
 - [Answer by Ivan V. for Forward type parameters to generic type when implementing generic function](https://stackoverflow.com/questions/71719496/forward-type-parameters-to-generic-type-when-implementing-generic-function/71719763#71719763)
-- [Dynamic chainable methods on child classes](https://stackoverflow.com/questions/71623931/dynamic-chainable-methods-on-child-classes)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
