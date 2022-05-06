@@ -10,11 +10,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### Latest blog posts
 <!-- Blog Posts:START -->
+- [The complete guide to internationalization in Next.js](https://dev.to/ivandotv/the-complete-guide-to-internationalization-in-nextjs-e6p)
 - [Microbundle is not enough](https://dev.to/ivandotv/microbundle-is-not-enough-1k1)
 - [Preventing GraphQL batching attacks](https://dev.to/ivandotv/preventing-graphql-batching-attacks-56o3)
 - [Handling HTML Forms with Mobx and Dumba.js library](https://dev.to/ivandotv/handling-html-forms-with-mobx-1726)
 - [The complete guide to internationalization in Next.js](https://blog.logrocket.com/complete-guide-internationalization-nextjs/)
-- [Full Page Transitions with Next.js](https://dev.to/ivandotv/full-page-transitions-with-next-js-1co5)
 <!-- Blog Posts:END -->
 
 #### StackOverflow activity
