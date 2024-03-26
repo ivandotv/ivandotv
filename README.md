@@ -19,11 +19,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [self referencing generics in the class initializer](https://stackoverflow.com/questions/78225353/self-referencing-generics-in-the-class-initializer)
 - [Answer by Ivan V. for Can i keep a hashmap in nodejs as a constant among all files and refresh it once in a day?](https://stackoverflow.com/questions/75934934/can-i-keep-a-hashmap-in-nodejs-as-a-constant-among-all-files-and-refresh-it-once/75935936#75935936)
 - [Answer by Ivan V. for Next-Auth &amp; React.Component](https://stackoverflow.com/questions/72270208/next-auth-react-component/72271105#72271105)
 - [Answer by Ivan V. for Interprete mobx console outputs](https://stackoverflow.com/questions/72041368/interprete-mobx-console-outputs/72103860#72103860)
 - [Answer by Ivan V. for NextJS: Axios or Fetch post and get method result wrong URL path api](https://stackoverflow.com/questions/71996961/nextjs-axios-or-fetch-post-and-get-method-result-wrong-url-path-api/71997094#71997094)
-- [Answer by Ivan V. for cannot get XSRF-TOKEN from cookie in nextjs &lpar;Reactjs&rpar;](https://stackoverflow.com/questions/71824204/cannot-get-xsrf-token-from-cookie-in-nextjs-reactjs/71824904#71824904)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
