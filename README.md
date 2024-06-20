@@ -8,10 +8,10 @@ Occasionally I write articles on [dev.to](https://dev.to/ivandotv) and I'm also 
 
 Don't be shy, reach out, I'm always looking to connect with interesting people, and I'm open to new opportunities.
 
-#### Open source projects
+#### Notable open source projects
 - [pumpit](https://github.com/ivandotv/pumpit)
 - [puntoenv](https://github.com/ivandotv/puntoenv)
-- [fuerte](https://github.com/ivandotv/fuerte)
+- [vitest database containers](https://github.com/ivandotv/vitest-database-containers)
 #### Latest blog posts
 <!-- Blog Posts:START -->
 - [Progressive web apps with Material UI &lpar;MUI&rpar;, Next.js and Workbox](https://dev.to/ivandotv/progressive-web-apps-with-material-ui-mui-nextjs-and-workbox-1doj)
