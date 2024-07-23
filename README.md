@@ -10,7 +10,6 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 
 #### Notable open source projects
 - [pumpit](https://github.com/ivandotv/pumpit)
-- [puntoenv](https://github.com/ivandotv/puntoenv)
 - [vitest database containers](https://github.com/ivandotv/vitest-database-containers)
 #### Latest blog posts
 <!-- Blog Posts:START -->
