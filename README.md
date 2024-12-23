@@ -1,4 +1,4 @@
-## Hello! (Здраво!) 👋
+## Hello! 👋
 
 My name is Ivan Vlatković. I am a full stack developer from Novi Sad, Serbia (GMT+1), and I have been creating content on the web since ~2009.
 
