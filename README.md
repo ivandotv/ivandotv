@@ -13,11 +13,11 @@ Don't be shy, reach out, I'm always looking to connect with interesting people, 
 - [vitest database containers](https://github.com/ivandotv/vitest-database-containers)
 #### Latest blog posts
 <!-- Blog Posts:START -->
-- [Progressive web apps with Material UI &lpar;MUI&rpar;, Next.js and Workbox](https://dev.to/ivandotv/progressive-web-apps-with-material-ui-mui-nextjs-and-workbox-1doj)
-- [Dependency injection without the decorators](https://dev.to/ivandotv/dependency-injection-without-the-decorators-3i2p)
-- [MongoDB and PostgreSQL database testing with Jest and Docker containers](https://dev.to/ivandotv/mongodb-and-postgresql-database-testing-with-jest-and-docker-containers-56bc)
-- [Next.js API routes with Koa.js](https://dev.to/ivandotv/nextjs-api-routes-with-koajs-3i19)
-- [The complete guide to internationalization in Next.js](https://dev.to/ivandotv/the-complete-guide-to-internationalization-in-nextjs-e6p)
+- [Progressive web apps with Material UI &lpar;MUI&rpar;, Next.js and Workbox](https://forem.com/ivandotv/progressive-web-apps-with-material-ui-mui-nextjs-and-workbox-1doj)
+- [Dependency injection without the decorators](https://forem.com/ivandotv/dependency-injection-without-the-decorators-3i2p)
+- [MongoDB and PostgreSQL database testing with Jest and Docker containers](https://forem.com/ivandotv/mongodb-and-postgresql-database-testing-with-jest-and-docker-containers-56bc)
+- [Next.js API routes with Koa.js](https://forem.com/ivandotv/nextjs-api-routes-with-koajs-3i19)
+- [The complete guide to internationalization in Next.js](https://forem.com/ivandotv/the-complete-guide-to-internationalization-in-nextjs-e6p)
 <!-- Blog Posts:END -->
 
 #### StackOverflow activity
